@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 750 500"
+	 style="enable-background:new 0 0 750 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#C8102E;}
+	.st2{fill:#012169;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st4{stroke:#FFFFFF;stroke-width:100;stroke-miterlimit:100;}
+	.st5{fill:#C8102E;stroke:#C8102E;stroke-width:60;stroke-miterlimit:100;}
+</style>
+<g>
+	<rect x="0" y="0" class="st0" width="750" height="62.5"/>
+	<rect x="0" y="62.5" class="st1" width="750" height="62.5"/>
+	<rect x="0" y="125" class="st2" width="750" height="62.5"/>
+	<rect y="187.5" class="st0" width="750" height="62.5"/>
+	<rect x="0" y="250" class="st1" width="750" height="62.5"/>
+	<rect x="0" y="312.5" class="st2" width="750" height="62.5"/>
+	<rect x="0" y="437.5" class="st1" width="750" height="62.5"/>
+	<rect x="0" y="375" class="st0" width="750" height="62.5"/>
+	<rect x="0" y="0" class="st2" width="375" height="250"/>
+</g>
+<path class="st3" d="M0,0v30l142.4,95L0,220v30l45.1,0l142.4-95l142.4,95l45.1,0l0-30l-142.4-95L375,30V0h-45.1L187.5,95L45.1,0L0,0
+	z"/>
+<path class="st1" d="M0,250l125-83.3H153L22.5,250H0z M0,0l125,83.3H97.1L0,18.6L0,0z M222,83.3L347,0H375L250,83.3H222z M375,250
+	l-125-83.3h27.9l97,64.7V250z"/>
+<path class="st4" d="M187.5,0v250 M0,125h375"/>
+<path class="st5" d="M187.5,0v250 M0,125h375"/>
+</svg>
